@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+dist/
+build/
+coverage/
+
+# Environment variables & secrets
+.env
+.env.*
+.env*.local
+!.env.example
+
+# Python virtual environments & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs & Temporary Files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.tmp
+*.temp
+*.bak
+
+# Local IDE & OS caches
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AI Studio local session data, duplicate repos & temporary prototypes
+.aistudio/
+Kernel-Lab-Algorithmic-Image-Studio/
+KernelLab Studio.html
+de4b88cd-94b7-4a99-9b7e-083e81504488.png
+img1.png

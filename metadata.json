@@ -1,0 +1,8 @@
+{
+  "name": "KernelLab — Algorithmic Precision Studio",
+  "description": "Browser-native computational image processing platform. Transform ordinary images into artwork with real convolution kernels, Kuwahara oil painting, neon edge detection, vintage film, and cyberpunk halftone directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
